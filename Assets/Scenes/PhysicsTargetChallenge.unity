@@ -1823,7 +1823,7 @@ GameObject:
   - component: {fileID: 1364090389}
   - component: {fileID: 1364090390}
   m_Layer: 0
-  m_Name: Target
+  m_Name: MovingTarget
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
